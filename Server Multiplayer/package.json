@@ -1,0 +1,9 @@
+{
+  "name": "server-multiplayer",
+  "version": "0.0.0",
+  "description": "Server Multiplayer",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

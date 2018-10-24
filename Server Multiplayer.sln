@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Server Multiplayer", "Server Multiplayer\Server Multiplayer.njsproj", "{0B58A48E-8CFC-4976-8EC5-2DD6AF4EBBB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B58A48E-8CFC-4976-8EC5-2DD6AF4EBBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B58A48E-8CFC-4976-8EC5-2DD6AF4EBBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B58A48E-8CFC-4976-8EC5-2DD6AF4EBBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B58A48E-8CFC-4976-8EC5-2DD6AF4EBBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E55910-F9EC-46E1-BCBC-ABDF225E61DA}
+	EndGlobalSection
+EndGlobal
