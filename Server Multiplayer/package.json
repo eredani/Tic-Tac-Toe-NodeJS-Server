@@ -5,5 +5,9 @@
   "main": "server.js",
   "author": {
     "name": ""
+  },
+  "dependencies": {
+    "pusher": "^2.1.3",
+    "socket.io": "^2.1.1"
   }
 }
